@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618674369 source:c:\users\patrícia\desktop\exercícios recursividade\trabalho - loja de sapatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
